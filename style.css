@@ -14,3 +14,11 @@
  list-style-type: none;
  color: #fff;
 }
+
+.Bungwon h1{
+    font-size: 50px;
+}
+.Bungwon button{
+    border-radius: 20px;
+    font-size: 15px;
+}
