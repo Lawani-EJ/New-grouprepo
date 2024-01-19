@@ -5,3 +5,12 @@
     font-weight: bold;
     text-align: center;
 }
+.Benedicta{
+ background-color: rgb(199, 167, 167);
+ color: #fff;
+}
+
+.ban-nav li{
+ list-style-type: none;
+ color: #fff;
+}
