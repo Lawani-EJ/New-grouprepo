@@ -35,3 +35,9 @@
     font-size: large;
     
 }
+.banner-section {
+    height: 300px;
+    display: flex;
+    background-color: #fff;
+    margin-top: 200px;
+  }
